@@ -106,3 +106,6 @@ venv.bak/
 # pycache
 
 __pycache__/
+
+# idea stuff
+.idea/
